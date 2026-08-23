@@ -1,0 +1,20 @@
+Subject: Your August Product Update from Example Corp
+From: "Example Corp Newsletter" <newsletter@example.com>
+To: user@example.com
+Date: Sun, 23 Aug 2026 12:36:50 +0000
+Reply-To: support@example.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=example.com;
+ dkim=pass header.d=example.com; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi there,
+
+Here's your monthly newsletter with product updates and tips.
+
+Read the full update on our blog: https://blog.example.com/august-update
+
+Thanks for being a subscriber!
+
+The Example Corp Team

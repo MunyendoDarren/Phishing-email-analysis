@@ -1,0 +1,18 @@
+Subject: Sprint Review Moved to 3pm Tomorrow
+From: "Darren Otieno" <darren@example.com>
+To: team@example.com
+Date: Sun, 23 Aug 2026 12:36:50 +0000
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=example.com;
+ dkim=pass header.d=example.com; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi team,
+
+Quick reminder that the sprint review is moved to 3pm tomorrow in the usual m=
+eeting room. Agenda and slides are in the shared drive if you'd like to revie=
+w beforehand.
+
+See you there,
+Darren
